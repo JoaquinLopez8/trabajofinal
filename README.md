@@ -1,1 +1,4 @@
 # trabajofinal
+ESTUDIANTE: Joaquin Lopez
+AÑO: 2023
+CARRERA DESARROLLADOR WEB FULL STACK
