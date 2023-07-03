@@ -1,0 +1,21 @@
+.linea{
+    background-color: black;
+    width: 1370px;
+}
+
+.item-formulario {
+  padding: 10px 20px;
+}
+
+.item-formulario label {
+  margin-right: 10px;
+  min-width: 135px;
+}
+
+.Mensaje-error{
+  color: red;
+}
+
+.botonera {
+  padding: 10px 20px;
+}
